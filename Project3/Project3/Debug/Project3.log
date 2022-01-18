@@ -1,0 +1,9 @@
+﻿  BinaryTree.cpp
+c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\binarytree.cpp(213): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+  c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\node.h(12): note: see declaration of 'Node'
+c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\binarytree.cpp(219): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+  c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\node.h(12): note: see declaration of 'Node'
+c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\binarytree.cpp(226): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+  c:\users\jennp\onedrive\documents\visual studio 2015\projects\project3\project3\node.h(12): note: see declaration of 'Node'
+  Project3.vcxproj -> C:\Users\jennp\OneDrive\Documents\Visual Studio 2015\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\jennp\OneDrive\Documents\Visual Studio 2015\Projects\Project3\Debug\Project3.pdb (Full PDB)
